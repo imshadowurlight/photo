@@ -1,3 +1,3 @@
 # photo
-a photo repo
- write somethings here 
+a photo repo<br />
+**write somethings here **
